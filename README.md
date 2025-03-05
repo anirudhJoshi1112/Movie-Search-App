@@ -1,4 +1,5 @@
-🎬 Movie Search App
+🎬 Movie Search App!
+
 🚀 A sleek and powerful React.js application that lets users search for movies and view detailed information using the OMDB API. 
 This app provides an intuitive experience with a clean UI and a smooth modal for movie details.
 
@@ -15,16 +16,23 @@ This app provides an intuitive experience with a clean UI and a smooth modal for
 ✅ Error Handling – Displays messages when movies are not found or API errors occur.
 
 🎥 Demo : 
+
 🔗 Live Demo: https://cosmic-beignet-3eb564.netlify.app/
 
 🛠️ Tech Stack : 
-Frontend: React.js, Normal CSS (No Tailwind)
-API: OMDB API
-Package Manager: npm
+
+Frontend : React.js, Normal CSS (No Tailwind)
+
+API : OMDB API
+
+Package Manager : npm
 
 ⚡ How to Run the Project Locally?
+
 1️⃣ Clone the Repository : 
+
 git clone https://github.com/anirudhJoshi1112/Movie-Search-App/edit/main.git
+
 cd movie-search-app
 
 2️⃣ Install Dependencies : 
@@ -45,15 +53,21 @@ Example API Call:
 https://www.omdbapi.com/?s=batman&apikey=YOUR_API_KEY
 Get your own API key from OMDB API
 
-💡 Future Enhancements
+💡 Future Enhancements : 
+
 ✅ Add a loading spinner when fetching data
+
 ✅ Implement pagination for smoother navigation
+
 ✅ Improve the UI with animations
 
 👨‍💻 Author
+
 Anirudh Joshi
+
 🔗 LinkedIn : https://www.linkedin.com/in/anirudh-joshi-742147221/
 
 📝 License
+
 This project is licensed under the MIT License – Feel free to use, modify, and share!
 
